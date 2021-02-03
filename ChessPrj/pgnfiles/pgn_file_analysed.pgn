@@ -1,0 +1,10 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 { Good Move!(0.95, 0.15) (The Best Move was d2d4, 0.95 ) } 1... f5 { Losing Move!(0.03, 1.93) (The Best Move was e7e6, 0.03 ) } 2. f4 { Bad Move!(2.02, 0.63) (The Best Move was e4f5, 2.02 ) } 2... g5 { Opponent can force Checkmate in 1 moves!(0.53, #+1) (The Best Move was f5e4, 0.53). } 3. Qh5# { White is Victorious! (1-0) } *
+
